@@ -34,11 +34,13 @@ The general workflow is:
    Data dictionaries describe each dataset.
    All of this documentation will be compiled into a **data paper** at the end of the project.
 
-![Reproducible data workflow](pics/rep_workflow_FunCaB.png)
+Reproducible data workflow
 
-*Reproducible data workflow (adapted from the FunCaB project).*
+*Reproducible data workflow.*
 
 ## Where is what?
+
+
 
 ### Data
 
@@ -82,11 +84,13 @@ library(dataDocumentation)
 
 For full instructions see the [dataDocumentation readme](https://github.com/audhalbritter/dataDocumentation).
 
-![Example data dictionary](pics/data_dic.png)
+Example data dictionary
 
 *Example data dictionary.*
 
 ## Standards and naming conventions
+
+
 
 ### File names
 
