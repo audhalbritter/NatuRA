@@ -34,7 +34,7 @@ The general workflow is:
    Data dictionaries describe each dataset.
    All of this documentation will be compiled into a **data paper** at the end of the project.
 
-![Reproducible data workflow](pics/rep_workflow_FunCaB.png)
+Reproducible data workflow
 
 *Reproducible data workflow.*
 
@@ -47,7 +47,7 @@ The general workflow is:
 Raw and clean **datasets** are stored on [OSF](https://osf.io/328hc/overview).
 The OSF repository is currently **private** — only people with access can see the data.
 It can be made fully open at the end of the project.
-To request access, create an account on [osf.io](https://osf.io) and share your username with the project team.
+To request access, create an account on [osf.io](https://osf.io) and ask for permission to join the repository.
 
 An overview of all datasets is available in this [Google Sheet](https://docs.google.com/spreadsheets/d/1OE0FerDTSs1QAzUIeolbhrT6jGonxVd5/edit?usp=sharing&ouid=107981331666023309816&rtpof=true&sd=true).
 Add any new dataset that is collected here, so we have a good overview of all the datasets that exits.
@@ -84,7 +84,7 @@ library(dataDocumentation)
 
 For full instructions see the [dataDocumentation readme](https://github.com/audhalbritter/dataDocumentation).
 
-![Example data dictionary](pics/data_dic.png)
+Example data dictionary
 
 *Example data dictionary.*
 
